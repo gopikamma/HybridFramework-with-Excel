@@ -6,4 +6,9 @@ public class Sample_ONE
 	{
 		System.out.println("for pratice purpose");
 	}
+	
+	public void sam2()
+	{
+		System.out.println("for third commit");
+	}
 }
