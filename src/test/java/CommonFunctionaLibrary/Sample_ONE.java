@@ -11,4 +11,9 @@ public class Sample_ONE
 	{
 		System.out.println("for third commit");
 	}
+	
+	public void sam3()
+	{
+		System.out.println("after third commit");
+	}
 }
